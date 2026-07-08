@@ -1,0 +1,16 @@
+{
+  "name": "kurdmusic-v3",
+  "version": "3.0.0",
+  "description": "KurdMusic - Kurdish music streaming backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.4.5",
+    "uuid": "^9.0.1"
+  }
+}
